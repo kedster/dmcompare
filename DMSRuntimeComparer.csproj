@@ -1,9 +1,1 @@
-using System;
-
-namespace DMSRuntimeComparer.
-{
-    public class DMSRuntimeComparer
-    {
-        // TODO: Implement DMSRuntimeComparer
-    }
-}
+// DMSRuntimeComparer.csproj - placeholder for . layer
