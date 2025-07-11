@@ -1,4 +1,3 @@
-// FolderNode.cs - placeholder for Models layer
 using System.Collections.Generic;
 
 namespace DMSRuntimeComparer.Models
